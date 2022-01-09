@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.MainContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px 20px; 
+
+}
+.item{
+ 
+  align-items: center;
+
+}
+
+.dropdownCard{
+  width: 250x;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(67, 53, 187);
+}
+.dropdownItem{
+  align-items: center;
+
+}
