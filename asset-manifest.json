@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NasNav-Task/static/css/main.32d82590.css",
+    "main.js": "/NasNav-Task/static/js/main.85c3165d.js",
+    "static/js/787.8314f2b3.chunk.js": "/NasNav-Task/static/js/787.8314f2b3.chunk.js",
+    "static/media/shampo.jpg": "/NasNav-Task/static/media/shampo.f5a324adf3205a96d72c.jpg",
+    "static/media/serum.jpg": "/NasNav-Task/static/media/serum.f718174a59720c7e2251.jpg",
+    "index.html": "/NasNav-Task/index.html",
+    "main.32d82590.css.map": "/NasNav-Task/static/css/main.32d82590.css.map",
+    "main.85c3165d.js.map": "/NasNav-Task/static/js/main.85c3165d.js.map",
+    "787.8314f2b3.chunk.js.map": "/NasNav-Task/static/js/787.8314f2b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d82590.css",
+    "static/js/main.85c3165d.js"
+  ]
+}
